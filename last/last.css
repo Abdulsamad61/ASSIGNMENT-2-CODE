@@ -1,0 +1,20 @@
+.sama{
+    width: 400px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    left: calc(50% - 200px);
+    
+} 
+h1{
+ 
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+    color: rgb(86, 74, 189);
+    position: relative;
+    top: 300px;
+    
+}

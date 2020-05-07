@@ -1,0 +1,130 @@
+/* .pic{
+    width: 400px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    top: -20px;
+    left: calc(50% - 200px);
+    
+} 
+
+h1{
+ 
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+    color: #8178D3;
+    position: relative;
+    
+}
+
+  .container {
+    border-radius: 5px;
+    background-color: #7166DC;
+    padding: 20px;
+    color: white;
+  }
+
+
+   */
+
+   .main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: ;
+  }
+   .one{
+  flex: 1;
+  height: 90px;
+  /* border: 2px solid springgreen; */
+  
+   }
+
+   .two{
+color: blue;
+    padding: 20px;
+    flex: 1;
+    font-size: 20px;
+    height: 80px;
+    /* border: 2px solid springgreen; */
+     }
+
+
+.three{
+  flex: 1;
+  /* border: 2px solid black; */
+  /* height: 30px; */
+  padding: 5px;
+  background-color: #7166DC;
+  color: white;
+
+}
+
+
+
+      .container {
+     width: 1200px;
+    } 
+
+    .four,.five{
+      flex: 1;
+  color: white;
+  padding: 5px;
+  background-color: #7166DC;
+
+      border: 2px solid saddlebrown;
+    }
+    .five{
+
+
+      flex: 1;
+      color: white;
+      padding: 5px;
+      background-color: #7166DC;
+    
+          border: 2px solid  black;
+    }
+    .six{
+
+
+      flex: 1;
+      color: white;
+      padding: 5px;
+      background-color: #7166DC;
+    
+          border: 2px solid   white;
+    }
+    .seven{
+
+
+      flex: 1;
+      color: white;
+      padding: 5px;
+      background-color: #7166DC;
+    
+          border: 2px solid green;
+    }
+
+    .eight{
+
+
+      flex: 1;
+      color: white;
+      padding: 5px;
+      background-color: #7166DC;
+    
+          border: 2px solid  red;
+    }
+    .nine{
+
+
+      flex: 1;
+      color: white;
+      padding: 5px;
+      background-color: #7166DC;
+    
+          border: 2px solid  blue;
+    }
